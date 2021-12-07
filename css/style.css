@@ -40,5 +40,6 @@ html {
 .container .sp img {
   max-width: 300px;
   height: auto;
+  border-radius: 10px;
 }
 /*# sourceMappingURL=style.css.map */
